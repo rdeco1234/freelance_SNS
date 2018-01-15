@@ -1,0 +1,38 @@
+[
+{
+  "model": "app1.ipaddress",
+  "pk": 1,
+  "fields": {
+    "ipaddress": "192.168.33.10",
+    "status": "in_use",
+    "description": "vagrant\u4eee\u60f3\u30b5\u30fc\u30d0"
+  }
+},
+{
+  "model": "app1.ipaddress",
+  "pk": 2,
+  "fields": {
+    "ipaddress": "192.168.0.0",
+    "status": "in_use",
+    "description": "\u30c6\u30b9\u30c81"
+  }
+},
+{
+  "model": "app1.ipaddress",
+  "pk": 3,
+  "fields": {
+    "ipaddress": "192.168.0.1",
+    "status": "available",
+    "description": "\u30c6\u30b9\u30c82"
+  }
+},
+{
+  "model": "app1.ipaddress",
+  "pk": 4,
+  "fields": {
+    "ipaddress": "192.168.0.2",
+    "status": "not_available",
+    "description": "\u30c6\u30b9\u30c83"
+  }
+}
+]
